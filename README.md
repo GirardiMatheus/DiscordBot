@@ -11,3 +11,4 @@
 3. Anote o token do bot, pois precisaremos dele para autenticar nosso bot no Discord.
 4. No arquivo **config.json** seu bot token.
 5. Para seu uso deve-se preencher o campo*channel_id* do arquivo **bot.py** pelo id do chat de destino para qual o bot deve enviar as imagens.
+***
