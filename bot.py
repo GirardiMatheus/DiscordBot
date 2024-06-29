@@ -1,5 +1,6 @@
 import discord
 from discord.ext import commands
+from config.json import token
 
 intents = discord.Intents.default()
 intents.messages = True
@@ -28,4 +29,4 @@ async def on_message(message):
 
     await bot.process_commands(message)
 
-bot.run('YOUR_BOT_TOKEN_HERE')
+bot.run(token)
