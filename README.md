@@ -2,7 +2,7 @@
 
 ## Uma base para criação de Discord chatbot utilizando da biblioteca discord.py
 
-### O foco atual deste modelo é enciar um arquivo de imagem de um chat para outro
+### O foco atual deste modelo é enviar um arquivo de imagem de um chat para outro
 
 
 ### Intruções de uso
